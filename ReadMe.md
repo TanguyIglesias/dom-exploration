@@ -1,3 +1,3 @@
 ## DOM exploration
 
-[lien vers le page gitHub](https://tanguyiglesias.github.io/dom-exploration/)
+[Lien vers la page gitHub](https://tanguyiglesias.github.io/dom-exploration/)
