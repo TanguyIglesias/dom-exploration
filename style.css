@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    margin-bottom:  50px;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
